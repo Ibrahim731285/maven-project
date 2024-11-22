@@ -1,7 +1,8 @@
 package com.project;
 
 import org.testng.Assert;
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class AppTest {
 
